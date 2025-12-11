@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+[Danendra Fairuz];Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Amazing+Web+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Danendra Fairuz;Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Amazing+Web+Apps!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -14,12 +14,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-- 🔭 Currently working on **[Your Current Project]**
+- 🔭 Currently working on **Google Cloud**
 - 🌱 Learning **[New Technology]**
 - 👨‍💻 All my projects at **[your-portfolio.com](https://your-portfolio.com)**
 - 💬 Ask me about **Laravel, PHP, JavaScript**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **[Your Fun Fact]**
+- 📫 Reach me at **draaafrz@gmail.com**
+- ⚡ Fun fact: **Coding at High Altitude**
 - 🎮 Hobbies: **Coding, Gaming, Mountain Hiking**
 
 <br clear="both">
@@ -28,12 +28,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fairuzjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=fairuzjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=fairuzjs&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ## 💻 Tech Stack & Skills
@@ -75,24 +75,24 @@
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzjs&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fairuzjs/fairuzjs/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/gosummit-laravel">
+<a href="https://github.com/fairuzjs/gosummit-laravel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=gosummit-laravel&theme=dracula" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/project-2">
+<a href="https://github.com/fairuzjs/project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=dracula" />
 </a>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=fairuzjs&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -135,5 +135,5 @@
 </div>
 
 <div align="center">
-  <i>⭐️ From [Your Name](https://github.com/YOUR_USERNAME) with ❤️</i>
+  <i>⭐️ From fairuzjs (https://github.com/fairuzjs) with ❤️</i>
 </div>
