@@ -76,15 +76,19 @@
 </div>
 
 ## 🎯 Featured Projects
+
 <div align="center">
+  
 ### 🏔️ GoSummit - Mountain Ticketing System
 <p align="center">
   <a href="https://github.com/fairuzjs/gosummit-laravel">
     <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/homepage.jpg" width="30%" />
     <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/popularpage.jpg" width="30%" />
     <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/explorepage.jpg" width="30%" />
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/newspage.jpg" width="30%" />
   </a>
 </p>
+  
 **A comprehensive e-ticketing platform for mountain climbing activities**
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -92,6 +96,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 **Key Features:**
 - 🎫 Real-time Booking System with Quota Management
 - 💳 Midtrans Payment Gateway Integration
