@@ -80,24 +80,50 @@
 <div align="center">
   
 ### 🏔️ GoSummit - Mountain Ticketing System
-<p align="center">
-  <a href="https://github.com/fairuzjs/gosummit-laravel">
-    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/homepage.jpg" width="30%" />
-    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/popularpage.jpg" width="30%" />
-    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/explorepage.jpg" width="30%" />
-    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/newspage.jpg" width="30%" />
-  </a>
-</p>
-  
+
 **A comprehensive e-ticketing platform for mountain climbing activities**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Midtrans-00A8E1?style=for-the-badge&logo=payment&logoColor=white"/>
 </p>
 
-**Key Features:**
+---
+
+#### 🌐 Customer Web Interface
+
+<table align="center">
+<tr>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/homepage.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>🏠 Homepage</b></sub>
+  <br/><sub>Hero section with featured mountains</sub>
+</td>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/popularpage.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>⭐ Popular Destinations</b></sub>
+  <br/><sub>Curated mountain selections</sub>
+</td>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/explorepage.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>🔍 Explore & Search</b></sub>
+  <br/><sub>Advanced search functionality</sub>
+</td>
+</tr>
+</table>
+
+<div align="left">
+
+**Customer Features:**
 - 🎫 Real-time Booking System with Quota Management
 - 💳 Midtrans Payment Gateway Integration
 - 🌐 Multi-language Support (Indonesian & English)
@@ -107,10 +133,107 @@
 - 🌤️ Real-time Weather Integration
 - 💰 Voucher & Discount System
 
-**Tech Stack:** `Laravel` `Livewire` `TailwindCSS` `MySQL` `Midtrans` `Alpine.js`
+</div>
 
-[🔗 View Repository](https://github.com/fairuzjs/gosummit-laravel)
+---
 
+#### 👨‍💼 Admin Dashboard
+
+<table align="center">
+<tr>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/dbadmin.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>📊 Analytics Dashboard</b></sub>
+  <br/><sub>Revenue & booking statistics</sub>
+</td>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/managemt.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>⛰️ Mountain Management</b></sub>
+  <br/><sub>CRUD operations for mountains</sub>
+</td>
+<td align="center" width="32%">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/vcmanage.jpg" width="100%" style="border-radius: 8px; margin: 0 5px;" />
+  </a>
+  <br/><sub><b>📋 Voucher Management</b></sub>
+  <br/><sub>View & manage all vouchers</sub>
+</td>
+</tr>
+</table>
+
+<div align="left">
+
+**Admin Features:**
+- 📊 Comprehensive Analytics & Reporting
+- ⛰️ Mountain & Trail Route Management
+- 📋 Booking & Transaction Monitoring
+- 📰 News & Content Management System
+- 👥 User Management & Role Control
+- 🔔 Real-time Notification System
+- 💵 Revenue Tracking & Financial Reports
+- 📈 Quota & Availability Management
+
+</div>
+
+---
+
+<div align="center">
+
+**🛠️ Tech Stack**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" width="48" height="48" alt="Livewire" />
+<br>Livewire
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+<br>TailwindCSS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/midtrans.svg" width="48" height="48" alt="Midtrans" />
+<br>Midtrans
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="48" height="48" alt="Alpine.js" />
+<br>Alpine.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://img.shields.io/badge/⭐_Star_this_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://img.shields.io/badge/🔗_View_Repository-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 ---
 
 ### 💡 More Projects Coming Soon!
