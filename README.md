@@ -76,28 +76,31 @@
 </div>
 
 ## 🎯 Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/fairuzjs/gosummit-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fairuzjs&repo=gosummit-laravel&theme=dracula" />
-</a>
-
-</div>
-
-<br/>
-
 ### 🏔️ GoSummit - Mountain Ticketing System
-> A comprehensive web-based e-ticketing platform for mountain climbing activities built with Laravel 10
-
-**Features:**
-- ✅ Online Booking System with Real-time Quota Management
-- ✅ QR Code Ticket Generation & Validation
-- ✅ Midtrans Payment Gateway Integration
-- ✅ Multi-language Support (Indonesian & English)
-- ✅ Admin Dashboard with Analytics
-- ✅ Weather API Integration
-- ✅ Voucher & Discount System
+<p align="center">
+  <a href="https://github.com/fairuzjs/gosummit-laravel">
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/homepage.jpg" width="30%" />
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/popularpage.jpg" width="30%" />
+    <img src="https://raw.githubusercontent.com/fairuzjs/gosummit-laravel/main/public/images/explorepage.jpg" width="30%" />
+  </a>
+</p>
+**A comprehensive e-ticketing platform for mountain climbing activities**
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+**Key Features:**
+- 🎫 Real-time Booking System with Quota Management
+- 💳 Midtrans Payment Gateway Integration
+- 🌐 Multi-language Support (Indonesian & English)
+- 📱 Fully Responsive Design
+- 🔐 Social Authentication (Google & Facebook)
+- 📄 PDF Ticket Generation with QR Code
+- 🌤️ Real-time Weather Integration
+- 💰 Voucher & Discount System
 
 **Tech Stack:** `Laravel` `Livewire` `TailwindCSS` `MySQL` `Midtrans` `Alpine.js`
 
