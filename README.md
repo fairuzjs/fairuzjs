@@ -18,7 +18,7 @@
 - 🌱 Learning **Advanced Next.js, TypeScript & Cloud Technologies**
 - 👨💻 All my projects at **[github.com/fairuzjs](https://github.com/fairuzjs)**
 - 💬 Ask me about **Laravel, Next.js, PHP, TypeScript, MySQL**
-- 📫 Reach me at **fairuz@example.com**
+- 📫 Reach me at **draafrz@gmail.com**
 - ⚡ Fun fact: **I love coding and mountain hiking!**
 - 🎮 Hobbies: **Coding, Gaming, Outdoor Adventures**
 
